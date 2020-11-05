@@ -7,9 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ItsMeSagor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shoriful Islam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shoriful_Islam | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" />][codeforces]
+<p align="left">
+ <a href="https://twitter.com/ItsMeSagor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ItsMeSagor" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/shoriful-islam-3940411bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shoriful Islam" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/Shoriful_Islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Shoriful_Islam" height="30" width="40" /></a>
+ </p>
 
 
 ### Languages and Tools:
@@ -45,7 +47,7 @@
 </p>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: <h3>GitHub Stats</h3> </summary>
  <p>&nbsp;
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeSagor&show_icons=true&locale=en" alt="MeSagor" />
  </p>
