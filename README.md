@@ -8,9 +8,11 @@
 ### Connect with me:
 
 <p align="left">
+  <a href="https://www.facebook.com/me.ssagor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Shoriful Islam" height="30" width="40" /></a>
  <a href="https://twitter.com/ItsMeSagor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ItsMeSagor" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/shoriful-islam-3940411bb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shoriful Islam" height="30" width="40" /></a>
  <a href="https://codeforces.com/profile/Shoriful_Islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Shoriful_Islam" height="30" width="40" /></a>
+  <a href="https://mesagor.github.io/MyWebsite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Shoriful Islam" height="30" width="40" /></a>
  </p>
 
 
