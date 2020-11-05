@@ -46,10 +46,7 @@
   </a> 
 </p>
 
-<details>
-  <summary>:zap: <h3>GitHub Stats</h3> </summary>
  <p>&nbsp;
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeSagor&show_icons=true&locale=en" alt="MeSagor" />
  </p>
-</details>
 
