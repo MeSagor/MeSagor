@@ -4,4 +4,4 @@
 
 
 - I’m a Student.
-- I have a [Webpage](https://mesagor.github.io/portfolio/#/), you can check it out...!
+- I have a [Webpage](https://mesagor.github.io), you can check it out...!
