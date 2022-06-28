@@ -11,7 +11,7 @@
 </div>
 
 <div id="header" align="center">
-<img src="developer.gif"/>
+<img src="developer.gif" width="400" height="300"/>
 </div>
 
 <div align="center">
