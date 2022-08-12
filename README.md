@@ -22,5 +22,5 @@
 
 <div id="header" align="center">
 
-Check out My [`Website`](https://mesagor.github.io)
+Check out My <b><i>[`Website`](https://mesagor.github.io)
 </div>
